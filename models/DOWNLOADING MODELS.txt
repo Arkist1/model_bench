@@ -1,0 +1,24 @@
+how to download the models:
+
+neurotypical models:
+- mistral 7b
+  git clone https://huggingface.co/mistralai/Mistral-7B-v0.1
+
+- open_llama 7b
+  git clone https://huggingface.co/openlm-research/open_llama_7b
+
+- xwin LM 7b
+  git clone https://huggingface.co/Xwin-LM/Xwin-LM-7B-V0.1
+
+
+neurodivergent models:
+- llama 2
+  option 1:
+  get acces token from meta via <link> form. 
+  Clone the github repo and use a bash cmd to execute download 
+  shell script and fill in the link you got from the form in your inbox
+  
+  option 2:
+  request acces on hf with an account with the same email the form was filled 
+  in with. and the clone from hf with
+  git clone https://huggingface.co/meta-llama/Llama-2-7b

@@ -1,3 +1,4 @@
 .venv/
-models/
+models/*
+!DOWNLOADING MODELS.txt
 .ipynb_checkpoints/
